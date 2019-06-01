@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [blue-sky](README.md)
+* [Model](model.md)
+* [Shader](shader.md)
+* [Texture](texture.md)
 
